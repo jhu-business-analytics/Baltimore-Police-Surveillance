@@ -10,8 +10,7 @@
 - [2014 Crimes Dataset](https://data.baltimorecity.gov/Crime/Violent-Crime-2014-YTD-Heat-Map/59fg-ary5)
 
 ## Tools Used
-- [Geopy](https://geopy.readthedocs.io/en/stable/)
-> a python library used for translating adresses to lat/long coordinates
+- [Geopy](https://geopy.readthedocs.io/en/stable/), a python library used for translating adresses to lat/long coordinates
 
 ## Team Members
 - Reece Griffith rgriff43@jhu.edu
