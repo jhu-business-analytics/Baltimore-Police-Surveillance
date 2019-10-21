@@ -3,8 +3,7 @@
 ## Executive Summary
 
 ## Data Used
-Baltimore City Open Data
-https://data.baltimorecity.gov/
+[Baltimore City Open Data](https://data.baltimorecity.gov/)
 
 - [CCTV Camera Dataset](https://data.baltimorecity.gov/Public-Safety/CCTV-Cameras/y3f4-umna)
 
@@ -12,7 +11,7 @@ https://data.baltimorecity.gov/
 
 ## Tools Used
 - [Geopy](https://geopy.readthedocs.io/en/stable/)
--- a python library used for translating adresses to lat/long coordinates
+> a python library used for translating adresses to lat/long coordinates
 
 ## Team Members
 - Reece Griffith rgriff43@jhu.edu
