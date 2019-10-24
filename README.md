@@ -28,9 +28,19 @@ Data Sources:
 # Our Solution
 We created various pivot tables based on the - [Violent Crime Dataset](https://data.baltimorecity.gov/Crime/Violent-Crime-2014-YTD-Heat-Map/59fg-ary5).
 
+## Pivot Table Analysis
+We created numerous pivot tables to visualize the dataset in the following ways.
+
+### Crimes per Month
+
+### Crimes per District
+
+### Crimes by Day and Night
+
+## Cluster Analysis
 We performed clustering analysis on three different variables:
 
-Crime Type:
+### Crime Type:
 
 | Anchor | Description | Average Latitude |	Average Longitude |	% of Crimes Occuring in Daytime |	% of Crimes Occuring in Nighttime |	% of Crimes Occuring in Fall |	% of Crimes Occuring in Winter |	% of Crimes Occuring in Spring |	% of Crimes Occuring in Summer |
 | ------ | ----------- | ---------------- | ----------------- | ------------------------------- | ----------------------------------- | ---------------------------- | ------------------------------- | ------------------------------- | ------------------------------- |
@@ -49,7 +59,7 @@ Crime Type:
 | ROBBERY - STREET |	3 |
 | SHOOTING	| 3 |
 
-District:
+### District:
 
 | Anchor | Description | Average Latitude |	Average Longitude |	% of Crimes Occuring in Daytime |	% of Crimes Occuring in Nighttime |	% of Crimes Occuring in Fall |	% of Crimes Occuring in Winter |	% of Crimes Occuring in Spring |	% of Crimes Occuring in Summer |
 | ------ | ----------- | ---------------- | ----------------- | ------------------------------- | ----------------------------------- | ---------------------------- | ------------------------------- | ------------------------------- | ------------------------------- |
@@ -69,7 +79,7 @@ District:
 | SOUTHWEST	| 2	|
 | WESTERN	| 3	|
 
-Neighborhood:
+### Neighborhood:
 
 | Anchor	|	AGG. ASSAULT |	HOMICIDE	| RAPE |	ROBBERY - CARJACKING |	ROBBERY - COMMERCIAL |	ROBBERY - RESIDENCE	| ROBBERY - STREET |	SHOOTING |
 | ------- | ------------ | ---------- | ---- | --------------------- | --------------------- | -------------------- | ---------------- | -------- |
