@@ -18,7 +18,7 @@ with open('crime_addr.csv') as csvfile:
 		count += 1
 
 		address = row +  " Baltimore, MD"
-		geolocator = Nominatim(user_agent="specify_your_app_name_here",timeout=1)
+		geolocator = Nominatim(user_agent="geocode_bc_data",timeout=1000)
 		location = geolocator.geocode(address)
 
 		if location is not None:
