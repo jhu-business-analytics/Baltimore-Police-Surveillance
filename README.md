@@ -32,10 +32,17 @@ We created various pivot tables based on the - [Violent Crime Dataset](https://d
 We created numerous pivot tables to visualize the dataset in the following ways.
 
 ### Crimes per Month
+![crimes per month](https://github.com/reecewgriffith/Baltimore-Police-Surveillance/blob/master/crimes_per_month.png)
 
 ### Crimes per District
+![crimes per_district bar](https://github.com/reecewgriffith/Baltimore-Police-Surveillance/blob/master/crime_distr_district_bar.png)
+
+![crimes per_district pie](https://github.com/reecewgriffith/Baltimore-Police-Surveillance/blob/master/crime_distr_district_pie.png)
 
 ### Crimes by Day and Night
+![crimes day and night month](https://github.com/reecewgriffith/Baltimore-Police-Surveillance/blob/master/crimes_day_night_month.png)
+
+![crimes day and night district](https://github.com/reecewgriffith/Baltimore-Police-Surveillance/blob/master/crimes_day_night_district.png)
 
 ## Cluster Analysis
 We performed clustering analysis on three different variables:
@@ -90,6 +97,11 @@ We performed clustering analysis on three different variables:
 | 61 |	DICKEYVILLE	| -2.145351679	| -0.537913652	| -0.34162476	| 13.76683692	| -0.571033082	| -0.790032836 | -1.477117408	| -0.596442991 |
 
 There are over 250 neighborhoods, so the individual clusters for each neighborhood coulf not be shown here. This information can easily be found in our clusters datasheet.
+
+## Camera Data Analysis
+![unique crimes seen](https://github.com/reecewgriffith/Baltimore-Police-Surveillance/blob/master/unique_crimes_seen.png)
+
+![non unique crimes seen](https://github.com/reecewgriffith/Baltimore-Police-Surveillance/blob/master/nonunique_crimes_seen.png)
 
 # Future Suggestions
 
