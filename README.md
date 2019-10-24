@@ -9,7 +9,7 @@ This README includes the following major sections:
 - Additional Information
 
 # Why is this a Challenge/Problem?
-The proposed surveillance planes would cost $2.2 million each year. Althouhg it would be privately funded, the money may be well spent elsewhere. However, if these surveillance planes can be effective, crime would potentially be reduced and crimes could be solves more efficiently and at a higher rate. This is also an issue of balancing drawbacks of reduced privacy for citizens with a potentially lower crime rate and higher crime closure rate. The issue of whether or not surveillance planes should be used affects not only the Baltimore Police Department but all Baltimore City inhabitants as well.
+The proposed surveillance planes would cost $2.2 million each year. Although it would be privately funded, the money may be well spent elsewhere. However, if these surveillance planes can be effective, crime would potentially be reduced and crimes could be solves more efficiently and at a higher rate. This is also an issue of balancing drawbacks of reduced privacy for citizens with a potentially lower crime rate and higher crime closure rate. The issue of whether or not surveillance planes should be used affects not only the Baltimore Police Department but all Baltimore City inhabitants as well.
 
 Useful Articles:
 - [Baltimore Sun - City Support for Surveillance Planes](https://www.baltimoresun.com/news/crime/bs-md-ci-cr-poll-on-planes-20191014-mmot33qvm5f7pdwznim3qrx4oq-story.html)
