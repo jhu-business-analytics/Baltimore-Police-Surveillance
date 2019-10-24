@@ -29,7 +29,7 @@ Data Sources:
 We created various pivot tables based on the - [Violent Crime Dataset](https://data.baltimorecity.gov/Crime/Violent-Crime-2014-YTD-Heat-Map/59fg-ary5).
 
 ## Pivot Table Analysis
-We created numerous pivot tables to visualize the dataset in the following ways.
+We created numerous pivot tables to better visualize the dataset. We found that the majority of crimes occur at night, and in the Northeast and Southeast districts.
 
 ### Crimes per Month
 ![crimes per month](https://github.com/reecewgriffith/Baltimore-Police-Surveillance/blob/master/crimes_per_month.png)
@@ -45,7 +45,7 @@ We created numerous pivot tables to visualize the dataset in the following ways.
 ![crimes day and night district](https://github.com/reecewgriffith/Baltimore-Police-Surveillance/blob/master/crimes_day_night_district.png)
 
 ## Cluster Analysis
-We performed clustering analysis on three different variables:
+We performed clustering analysis on three different anchor sets: crime type, district, and neighborhood. This provides a simpler way to study the various crime types, disctricts, and neighborhoods of Baltimore. Each anchor serves as a representative of the other crime types, districts, or neighborhoods it represents. This will make it easier for the Baltimore Police department to manage patrols and other such activities.
 
 ### Crime Type:
 
@@ -103,8 +103,12 @@ There are over 250 neighborhoods, so the individual clusters for each neighborho
 
 ![non unique crimes seen](https://github.com/reecewgriffith/Baltimore-Police-Surveillance/blob/master/nonunique_crimes_seen.png)
 
-# Future Suggestions
+The first figure shows that only 120/1000 unique crimes occur within 100 meters of a camera. However, it is reasonable to think that persons of interest leaving the location of a crime coul pass within this 100 meter radius eventually. The number of crimes seen is likely higher than we are reporting.
 
+The second figure shows that, while only 120 unique crimes occur within 100 meters of a camera, there can be multiple crimes that occur within the radius of the same camera. For example, at a 100 meter radius, only 120 unique crimes occur, but 891 non-unique crimes occur within that same radius.
+
+# Future Suggestions
+After analyzing numerous sources of data and creating untilizes multiple methods of visualization and analysis, it is our recommendation that the Baltimore Police Department move forward with the proposed surveillance plane solution. While only a small percentage of unique crimes occur within a reasonable readius of a camera, many non-unique crimes occur within that same radius. These crimes that occur within this radius can easily be linked to their corresponding CitiWatch camera using the tracking data from these surveillance planes.
 
 # Additional Information
 
