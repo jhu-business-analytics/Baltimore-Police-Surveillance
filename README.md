@@ -49,7 +49,7 @@ We performed clustering analysis on three different anchor sets: crime type, dis
 
 ### Crime Type:
 
-| Anchor | Description | Average Latitude |	Average Longitude |	% of Crimes Occuring in Daytime |	% of Crimes Occuring in Nighttime |	% of Crimes Occuring in Fall |	% of Crimes Occuring in Winter |	% of Crimes Occuring in Spring |	% of Crimes Occuring in Summer |
+| Anchor | Description | Average Latitude |	Average Longitude |	% of Crimes in Daytime |	% of Crimes in Nighttime |	% of Crimes in Fall |	% of Crimes in Winter |	% of Crimes in Spring |	% of Crimes in Summer |
 | ------ | ----------- | ---------------- | ----------------- | ------------------------------- | ----------------------------------- | ---------------------------- | ------------------------------- | ------------------------------- | ------------------------------- |
 | 5	| ROBBERY - COMMERCIAL	| 1.324890724	| -1.328155383	| 2.128211772	| -2.128211772	| -0.537335705	| -0.358477321 |	-0.169978668 |	0.534428439 |
 | 2	| HOMICIDE	| -1.914982968	| 1.913482349	| -0.848833783	| 0.848833783	| -0.765568719 |	0.023037538	| -2.209080383	| 1.765513852 |
@@ -68,7 +68,7 @@ We performed clustering analysis on three different anchor sets: crime type, dis
 
 ### District:
 
-| Anchor | Description | Average Latitude |	Average Longitude |	% of Crimes Occuring in Daytime |	% of Crimes Occuring in Nighttime |	% of Crimes Occuring in Fall |	% of Crimes Occuring in Winter |	% of Crimes Occuring in Spring |	% of Crimes Occuring in Summer |
+| Anchor | Description | Average Latitude |	Average Longitude |	% of Crimes in Daytime |	% of Crimes in Nighttime |	% of Crimes in Fall |	% of Crimes in Winter |	% of Crimes in Spring |	% of Crimes in Summer |
 | ------ | ----------- | ---------------- | ----------------- | ------------------------------- | ----------------------------------- | ---------------------------- | ------------------------------- | ------------------------------- | ------------------------------- |
 | 7 |	SOUTHERN	| 0.035277751	| -0.054845041	| -0.538965665	| 0.538965665	| -0.590171125 |	0.080835878	| 0.436440822 | 	| 0.020732752 |
 | 1	| CENTRAL	| -0.140874451 |	0.12746857	| 0.289375281	| -0.289375281 | 	1.327527375	| -0.313203762	| 0.602305331 |	-1.326427772 |
